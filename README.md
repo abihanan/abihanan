@@ -7,8 +7,7 @@ Mostly vibing with backend stuff, but honestly open to wherever the wind takes m
 
 ## 🚧 What I’m Up To Right Now
 
-- 🛠️ Building random projects to see what sticks
-- ✅ Occasionally writing code that doesn’t immediately break
+- ## 🌱 Where I’m At
 
 ---
 
