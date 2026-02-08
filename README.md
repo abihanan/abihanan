@@ -7,10 +7,7 @@ Mostly vibing with backend stuff, but honestly open to wherever the wind takes m
 
 ## 🚧 What I’m Up To Right Now
 
-- 🧠 Learning how web things actually work  
-  (Turns out… more confusing than expected)
 - 🛠️ Building random projects to see what sticks
-- 🌿 Trying to understand Laravel without losing my mind
 - ✅ Occasionally writing code that doesn’t immediately break
 
 ---
