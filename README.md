@@ -7,7 +7,7 @@ Mostly vibing with backend stuff, but honestly open to wherever the wind takes m
 
 ## 🚧 What I’m Up To Right Now
 
-- ## 🌱 Where I’m At
+- 🌱 Where I’m At
 
 ---
 
